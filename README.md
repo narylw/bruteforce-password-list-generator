@@ -1,2 +1,2 @@
-# bruteforce-password-list-generator
+# Bruteforce Password List Generator
 Golang Password List Generator For Brute Force
